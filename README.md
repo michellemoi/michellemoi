@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![michellemoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemoi&show_icons=true&theme=radical)
 
 <!--
